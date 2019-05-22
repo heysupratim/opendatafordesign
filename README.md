@@ -1,7 +1,7 @@
 # Open Data for design
 Public repository for Open Data for design webpage 
 
-[Check out the Website](data.designdiscussion.co)
+[Check out the Website](https://data.designdiscussion.co)
 
 Currently listing
 1. Nike Circularity Guide
