@@ -15,7 +15,7 @@
 }
 
 .div-block {
-  margin-left: 20px;
+  margin-left: 40px;
 }
 
 .list {
@@ -33,13 +33,14 @@
 .heading-2 {
   margin-top: 0px;
   font-size: 24px;
+  font-family: 'Lato', sans-serif; 
 }
 
 .paragraph {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 16px;
   text-align: justify;
-  line-height: 24px;
+  line-height: 30px;
   font-weight: 300;
 }
 
