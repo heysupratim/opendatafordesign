@@ -33,14 +33,14 @@
 .heading-2 {
   margin-top: 0px;
   font-size: 24px;
-  font-family: 'Lato', sans-serif; 
+  font-family: 'Roboto Condensed', sans-serif; 
 }
 
 .paragraph {
-  font-family: 'Merriweather', serif;
+  font-family: 'Cabin', sans-serif;
   font-size: 16px;
   text-align: justify;
-  line-height: 30px;
+  line-height: 25px;
   font-weight: 300;
 }
 
