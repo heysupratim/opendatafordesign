@@ -49,16 +49,17 @@
 
   .heading-2 {
     margin-top: 0px;
-    font-size: 20px;
-    line-height: normal;
+    font-size: 24px;
+    font-family: 'Lato', sans-serif; 
+    font-weight: 700;
   }
   
   .paragraph {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 14px;
     text-align: justify;
-    line-height: 20px;
-    font-weight: 300;
+    line-height: 28px;
+    font-weight: 400;
   }
 
   .container {
@@ -81,9 +82,10 @@
 
 @media (max-width: 670px) {
   .heading-2 {
-    margin-top: 10px;
-    font-size: 20px;
-    line-height: normal;
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: 'Lato', sans-serif; 
+    font-weight: 700;
   }
 
   .list-item {
