@@ -41,8 +41,18 @@
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
   text-align: justify;
-  line-height: 35px;
+  line-height: 36px;
   font-weight: 400;
+}
+
+.download {
+  text-decoration: none;
+  font-family: Lato;
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #345bf7;
+  letter-spacing: 2.1px;
 }
 
 @media (max-width: 991px) {
