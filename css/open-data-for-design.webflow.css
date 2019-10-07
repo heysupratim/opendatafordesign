@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+ }
+
 .list-item {
   display: -webkit-box;
   display: -webkit-flex;
