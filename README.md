@@ -10,3 +10,6 @@ Currently listing
 4. Civic Smart City Playbook
 5. Humane Design guide by Humanetech
 6. Inclusive AI guide by Microsoft
+7. Ethical Design De-Scrption
+8. Systems and User focus by Microsoft
+9. Machine learning HIG by Apple
